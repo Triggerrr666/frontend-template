@@ -1,9 +1,8 @@
-# Web3Study
+# FrontedEndTemplate
 
 #### 介绍
 
-Web3.0 & 未来已来。
-No trust, verify.
+基于 Vite + Vue3 的前端项目模版
 
 #### 软件架构
 
