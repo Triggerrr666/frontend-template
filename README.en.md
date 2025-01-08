@@ -1,7 +1,8 @@
-# frontedEndTemplate
+# Web3Study
 
 #### Description
-基于 Vite + Vue3 的前端项目模版
+3.0 & 未来已来
+No trust, verify.
 
 #### Software Architecture
 Software architecture description
